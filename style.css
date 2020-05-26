@@ -1,0 +1,169 @@
+body { 
+  margin: 0px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+  background-image: url("https://www.nasa.gov/sites/default/files/thumbnails/image/hubble_emitting.jpg");
+  background-size: 100%;
+  background-attachment: fixed;
+  width: auto;
+  max-width: 100%;
+
+  
+}
+
+#title {
+  color:white;
+  text-align: center;
+  background-color: rgba(128, 128, 128, 0.8);
+  padding: 20px;
+  margin: 0px auto;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+}
+
+#title-2 {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.9);
+  padding: 10px;
+  margin: 0px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  color: white;
+}
+
+#slick-div {
+  margin: 0 auto;
+  width: auto;
+  margin-top:50px;
+  
+}
+
+#slick-image {
+ max-width: 100%;
+  width: auto;
+ display: block;
+ height: auto;
+ margin: 0 auto;
+ box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+}
+
+.bio {
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  color: white;
+  border-radius: 10px;
+font-family: 'Montserrat', sans-serif;  font-size: 20px;
+  width: 50%;
+  
+}
+
+#storyline-title {
+  text-align: center;
+  background-color: rgba(0, 0, 0, 0.9);
+  padding: 10px;
+  margin: 0px;
+  margin-top: 20px;
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  color: white;
+  border-radius: 10px;
+font-family: 'Montserrat', sans-serif;  font-size: 20px;
+}
+
+#tribute-info {
+  width: auto;
+  margin: 0 auto;
+  margin-top: 80px;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow:5px 5px 5px rgba(0,0,0,0.5);
+  background-color: rgba(128, 128, 128, 0.8);
+  font-size: 25x;
+  max-width: 100%;
+
+}
+
+#tribute-info ul {
+  list-style: none;
+  padding: 30px;
+}
+
+#tribute-info ul li {
+  padding: 20px;
+}
+
+#tribute-info ul li:hover {
+  font-size: 150%;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  cursor: auto;
+  border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+  cursor: default;
+
+}
+
+#image-div {
+   margin: 0 auto;
+  width: 100%;
+  heigth: 100px;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 70px;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+
+}
+
+ 
+#img-caption {
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  color: white;
+  top-magin: 50px;
+  displauy: block;
+  z-index: 3000;
+  padding-bottom: 20px;
+}
+
+.quote {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+  margin: 50px;
+  text-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+
+}
+
+#footer {
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+  padding: 30px;
+  margin: 0 auto;
+  margin-top: 30px;
+  height: 50px;
+  max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+.more-about {
+  margin: 0 auto;
+  width: 980px;
+  text-align: right;
+  max-width: 100%;
+}
+
+ #tribute-link {
+  color: blue;
+  text-decoration: none;
+}
+
